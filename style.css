@@ -173,6 +173,12 @@ h6 {
   font-size: 1.2em;
 }
 
+/* ROAM-TOOLKIT VIM HIGHLIGHT COLOR */
+
+.roam-toolkit-block-mode--highlight {
+background-color: #6F8CAA;
+}
+
 /* HIGH LEVEL STUFF */
 
 .roam-body .roam-app textarea {
